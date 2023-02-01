@@ -10,9 +10,10 @@
     "build:sass-global": "sass  --no-source-map src/sass/_style.scss:dist/css/style.css",
     "build:sass-pages": "sass  --no-source-map src/sass/pages:dist/css",
     "build:eleventy": "eleventy",
+    "build:pagefind": "npx pagefind --source \"dist\"",
     "postbuild": "",
     "start": "npm-run-all clean:og build:sass-global build:sass-pages --parallel watch:*",
-    "build": "npm-run-all build:sass-global build:sass-pages build:eleventy",
+    "build": "npm-run-all build:sass-global build:sass-pages build:eleventy build:pagefind",
     "clean": "del-cli dist"
   },
   "keywords": [],

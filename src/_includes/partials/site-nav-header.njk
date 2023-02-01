@@ -5,6 +5,7 @@
             <a class="logo-link" aria-label="Home" href="/">
                 {% include 'partials/logo.njk' %}
             </a>
+            <div id="search"></div>
             <ul>
                 <li>
                     <a class="nav-link" {% if page.url == '/now/' %} aria-current="page"{% endif %} href="{{ '/now' | url}}">
