@@ -1,7 +1,7 @@
 ---
 title: Mountains and Spirituality
 description: Why the ancients used mountains as places to commune with God, and what this teaches us about worship
-date: 2023-03-08
+date: 2023-03-11
 ---
 
 In the scriptures, mountains are often spiritually significant places.

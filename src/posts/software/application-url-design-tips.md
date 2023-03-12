@@ -1,7 +1,7 @@
 ---
 title: Application URL Design Tips
 description: Useful tips for organizing the URLs in a web app
-date: 2023-03-07
+date: 2023-03-11
 ---
 
 It's not every day that a _question_ on Stack Overflow proves helpful 
