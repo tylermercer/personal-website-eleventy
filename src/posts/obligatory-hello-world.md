@@ -1,7 +1,7 @@
 ---
 title: Obligatory “Hello, World!” Post
 description: An introduction to this blog, why I am starting it now, and some thoughts about blogging in general
-date: 2023-03-11
+date: 2023-03-11 21:01:00.00
 ---
 
 I've been meaning to start a blog for a while now. 2019 was when I first thought about it, and I've jotted down ideas in a Todoist project occasionally since then. I even worked on a design back in 2019, but it never got off the ground.
