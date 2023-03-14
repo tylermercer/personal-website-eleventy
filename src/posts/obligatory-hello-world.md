@@ -1,5 +1,5 @@
 ---
-title: Obligatory "Hello, World!" Post
+title: Obligatory “Hello, World!” Post
 description: An introduction to this blog, why I am starting it now, and some thoughts about blogging in general
 date: 2023-03-11
 ---
