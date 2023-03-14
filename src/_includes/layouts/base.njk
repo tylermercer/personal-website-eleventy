@@ -16,7 +16,7 @@
       {%- endif -%}
     {%- endset -%}
     {#- Title -#}
-    <title>{{ titleFull }}</title>
+    <title>{{ titleFull | safe }}</title>
     {#- Styles -#}
     <link rel="stylesheet" href="{{ '/css/style.css' | url }}">
     {%- if pageScopedStyles -%}
